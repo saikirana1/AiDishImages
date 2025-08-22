@@ -1,0 +1,13 @@
+back_population
+
+1)what is 64 bit and 32 bit
+
+2)Response codes
+
+3)how to create type script genararic code for our refactering
+
+4)how this internalyy works explore it ....
+
+
+5)must and should practice all dsa in js and do practice the react
+
