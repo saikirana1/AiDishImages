@@ -46,11 +46,10 @@ This project is an end-to-end practical exploration of Generative AI, focused on
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/saikirana1/AiDishImages.git
    ```
 2. **Backend Setup**
 
-   - Install dependencies: `pip install -r requirements.txt`
    - Configure FastAPI, Pinecone, Supabase, and OpenAI API credentials in `.env`
 
 3. **Frontend Setup**
